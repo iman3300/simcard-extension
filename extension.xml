@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+  <extension_code>simcard-extension</extension_code>
+  <version>1.0.0</version>
+  <label><![CDATA[SimCard iTop Extension]]></label>
+  <description><![CDATA[This extension adds the SimCard class to the iTop configuration management database.]]></description>
+  <mandatory>false</mandatory>
+  <more_info_url></more_info_url>
+</extension>
